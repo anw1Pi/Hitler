@@ -12,8 +12,8 @@ local Options = Library.Options
 local Toggles = Library.Toggles
 Library.ForceCheckbox = false
 local Window = Library:CreateWindow({
-	Title = "Lovely-Hub",
-	Footer = "Lovely-Hub",
+	Title = "Ragalic",
+	Footer = "Ragalic",
 	NotifySide = "Right",
 	ShowCustomCursor = true,
 })
