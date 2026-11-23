@@ -99,7 +99,7 @@ function Type(data)
 end
 local function showNotification(notificationContent)
     orionXHub:MakeNotification({
-        Name = "Lovely-Hub",
+        Name = "Bliz_T",
         Content = notificationContent,
         Image = "rbxassetid://16570630989",
         Time = 5
@@ -2759,7 +2759,7 @@ local function getLastBlobmanSeat()
 end
 local userInterface = orionXHub
 local flingThingsWindow = orionXHub.MakeWindow(userInterface, {
-    Name = "Lovely-Hub",
+    Name = "Bliz_T",
     HidePremium = true,
     SaveConfig = true,
     ConfigFolder = "FTAPConfig",
